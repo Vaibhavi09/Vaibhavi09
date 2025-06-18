@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akshat Saxena</h1>
+<h1 align="center">Hi 👋, I'm Vaibhavi Jha Saxena</h1>
 <h3 align="center">I am studying Computer Science and Engineering at Vellore Institute of Technology, and I am a passionate learner. 😎</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=123akshat&label=Profile%20views&color=0e75b6&style=flat" alt="123akshat" /> </p>
