@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React, JavaScript and HTML/CSS**
 
-- 📫 How to reach me **akshat.saxena1@gmail.com**
+- 📫 How to reach me **vaibhavijha.1809@gmail.com**
 
 - ⚡ Fun fact **I use keyboard over mouse.**
 
@@ -19,8 +19,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/akshat-saxena-52984b21b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshat-saxena-52984b21b/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/akshat_00/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akshat_00/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vaibhavi-jha-b625a31b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshat-saxena-52984b21b/" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/vaibhavi_09/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akshat_00/" height="30" width="40" /></a>
 </p>
 
 <br/>
@@ -61,14 +61,14 @@
 <br/>
 
 ## My Problem Solving 🔥
-[![Leetcode Stats](https://leetcard.jacoblin.cool/akshat_00?theme=unicorn&extension=heatmap)](https://leetcode.com/akshat_00/)
+[![Leetcode Stats](https://leetcode.com/u/vaibhavi_09/)
 
 
 
 
 <br/> 
 <h2>Github Stats  </h2>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=123akshat&show_icons=true&locale=en" alt="123akshat" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Vaibhavi09&show_icons=true&locale=en" alt="Vaibhavi09" align="center" /></div>  
 
 
 
@@ -88,9 +88,9 @@
 ## Education  
 * Vellore Institute of Technology
 Bachelor of Technology | August 2021 - May 2025 | Computer Science and Engineering 
-* Amity International School
+* Delhi Public School, sec-45 Gurgaon
 Higher Secondary | June 2019 - May 2021 | CBSE | Science 
-* Amity International School
+* Delhi Public School, sec-45 Gurgaon
 Secondary | March 2007 - May 2019 | CBSE  
   
 
